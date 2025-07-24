@@ -2,8 +2,9 @@
 
 # n8n on Clever Cloud
 
-[![n8n.io - Workflow Automation](https://img.shields.io/badge/n8n.io-Workflow%20Automation-blue)](https://n8n.io)
-[![Clever Cloud - PaaS](https://img.shields.io/badge/Clever%20Cloud-PaaS-orange)](https://clever-cloud.com)
+<a href="https://app-2de1e866-51bf-46de-a71e-4450756d385c.cleverapps.io/templates/n8n" target="_blank">
+   <img src="./github-assets/deploy-on-clever-cloud.svg" alt="Deploy on Clever Cloud">
+</a>
 
 ## Overview
 
